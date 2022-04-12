@@ -56,6 +56,7 @@ Project developed for a practical test for a vacancy in the USEND company.
 ## ✨ Technologies && Features:
 
 - [x] 🗂 Assets Project:
+  - [x] The resources used are available [here](https://drive.google.com/drive/folders/16L2HJsDgZs6zcqMswhui4diQsmaMKwGZ);
   - [x] Online Images;
   - [x] Button Links with Images;
         <br>
