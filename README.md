@@ -1,18 +1,39 @@
 <div align="center">
   <h1>
-    <p text-align="" style="color: #000340">USEND - Project Test</p> 
+    <p text-align="" style="color: #000340">USEND - Code Challenge</p> 
     <img alt="logo" height="30" title="logo" style="margin-top: 10px"src="https://i.ibb.co/LZPdP1P/new-logo-header.png" /> 
   </h1>
 </div>
 
 <p align="center">
-  <!-- <img 
-    src="https://img.shields.io/cocoapods/l/m?color=%23000000&label=license&logo=license&logoColor=%23ffffff" 
-    alt="License" 
-  /> -->
+  <img 
+    src="https://img.shields.io/badge/USEND-Test%20Email-000000"
+    alt="Test" 
+   />
+  <img 
+    src="https://img.shields.io/badge/USEND-Code%20Challenge-000000"
+    alt="Test" 
+   />
 </p>
 
-<!-- ## 📷 Demonstration: -->
+<br>
+<br>
+<br>
+## 📷 Demonstration:
+
+<div align="center">
+  <h1 align="center">
+
+[Click here](https://usend-test.vercel.app/) to view the project as a webpage.
+
+<img 
+    src="./assets/cover.gif?style=flat"
+    alt="Cover Project" 
+  />
+  </h1>
+</div>
+
+## 📷 Demonstration:
 
 <div align="center">
   <h1 align="center">
