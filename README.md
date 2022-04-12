@@ -59,25 +59,26 @@ Project developed for a practical test for a vacancy in the USEND company.
   - [x] The resources used are available [here](https://drive.google.com/drive/folders/16L2HJsDgZs6zcqMswhui4diQsmaMKwGZ);
   - [x] Online Images;
   - [x] Button Links with Images;
-
+        <br>
 - [x] 🤖 Tests Platform
   - [x] [Litmus PutsMail](https://putsmail.com/):
-
+        <br>
 - [x] 📬 +4 Clients
   - [x] Gmail (Chrome);
   - [x] Outlook 2010 (Windows);
   - [x] iPhone 6 (iOS8);
   - [x] Apple Mail 10 (MacOS 10.12);
   - [x] Among others..
-
+        <br>
 - [x] ⚙️ HTML5
   - [x] Structure;
-        
+        <br>
 - [x] 🎨 CSS
   - [x] Table;
   - [x] Responsive;
   - [x] Desktop - Tablet - Mobile's;
   - [x] In-line CSS or Internal CSS and CDN (optional);
+        <br>
   <!-- ## 🔨 Architecture and Infrastructure for the Project: -->
 
 <!-- - Architecture:
