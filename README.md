@@ -68,7 +68,7 @@ Project developed for a practical test for a vacancy in the USEND company.
   - [x] Outlook 2010 (Windows);
   - [x] iPhone 6 (iOS8);
   - [x] Apple Mail 10 (MacOS 10.12);
-  - [x] Among others..
+  - [x] Others..
         <br>
 - [x] ⚙️ HTML5
   - [x] Structure;
