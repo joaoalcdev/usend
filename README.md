@@ -45,7 +45,8 @@ Project developed for a practical test for a vacancy in the USEND company.
 
 - [x] Completed project: 11/04/2022
 - [x] Deadline: 12/04/2022
-- [x] Project Submitted: 12/04/2022 | ⏱ 14pm (BRT GMT -3)
+- [ ] Project Submitted: 12/04/2022 | ⏱ 14pm (BRT GMT -3)
+  - Status: Pending...
 
 <br>
 
