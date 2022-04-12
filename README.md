@@ -87,9 +87,10 @@ Project developed for a practical test for a vacancy in the USEND company.
   <!-- </h1>
 </div> -->
 
-## 🔺 NOTE:
+## 🔺 IMPORTANT NOTES:
 
-Some assets may be at a slightly lower resolution due to not having editable creatives.
+[1] Some assets may be at a slightly lower resolution due to not having editable creatives.
+[2] Dimensions, sizes and styles of mobile's resolutions were "improvised" as there was no dynamic prototype to go on explaining the specs.
 
 <br>
 
