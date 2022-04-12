@@ -1,10 +1,8 @@
 <div align="center">
   <h1>
-    <p text-align="" style="color: #000340">USEND - Code Challenge</p> 
     <img alt="logo" height="30" title="logo" style="margin-top: 10px"src="https://i.ibb.co/LZPdP1P/new-logo-header.png" /> 
+    <p text-align="" style="color: #000340">USEND - Code Challenge</p> 
   </h1>
-</div>
-
 <p align="center">
   <img 
     src="https://img.shields.io/badge/USEND-Test%20Email-000000"
@@ -15,6 +13,7 @@
     alt="Test" 
    />
 </p>
+</div>
 
 <br>
 <br>
