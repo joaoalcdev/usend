@@ -2,17 +2,17 @@
   <h1>
     <img alt="logo" height="30" title="logo" style="margin-top: 10px"src="https://i.ibb.co/LZPdP1P/new-logo-header.png" /> 
     <p text-align="" style="color: #000340">USEND - Code Challenge</p> 
+    <p align="center">
+      <img 
+        src="https://img.shields.io/badge/USEND-Test%20Email-000000"
+        alt="Test" 
+      />
+      <img 
+        src="https://img.shields.io/badge/USEND-Code%20Challenge-000000"
+        alt="Test" 
+      />
+    </p>
   </h1>
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/USEND-Test%20Email-000000"
-    alt="Test" 
-   />
-  <img 
-    src="https://img.shields.io/badge/USEND-Code%20Challenge-000000"
-    alt="Test" 
-   />
-</p>
 </div>
 
 <br>
