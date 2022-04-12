@@ -42,7 +42,7 @@
 
 - [x] Completed project: 11/04/2022
 - [x] Deadline: 12/04/2022
-- [ ] Project Submitted: 12/04/2022 | ⏱ 11:15am (BRT GMT -3)
+- [x] Project Submitted: 12/04/2022 | ⏱ 11:15am (BRT GMT -3)
   - Status: Email sent for Thiago Zara && Ana...
 
 <br>
