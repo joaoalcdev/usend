@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <p text-align="" style="color: #000340">USEND - Project Test</p> 
-    <img alt="logo" height="30" title="logo" style="margin-top: 10px"src="https://i.ibb.co/mHVswPw/usend-logo-header.png" /> 
+    <img alt="logo" height="30" title="logo" style="margin-top: 10px"src="https://i.ibb.co/LZPdP1P/new-logo-header.png" /> 
   </h1>
 </div>
 
