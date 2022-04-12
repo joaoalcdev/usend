@@ -77,7 +77,7 @@ Project developed for a practical test for a vacancy in the USEND company.
   - [x] Table;
   - [x] Responsive;
   - [x] Desktop - Tablet - Mobile's;
-  - [x] In-line css or CDN (optional);
+  - [x] In-line CSS or Internal CSS and CDN (optional);
         <br>
   <!-- ## 🔨 Architecture and Infrastructure for the Project: -->
 
