@@ -60,6 +60,9 @@ Project developed for a practical test for a vacancy in the USEND company.
   - [x] Online Images;
   - [x] Button Links with Images;
         <br>
+- [x] 🤖 Tests Platform
+  - [x] [Litmus PutsMail](https://putsmail.com/):
+        <br>
 - [x] 📬 +4 Clients
   - [x] Gmail (Chrome);
   - [x] Outlook 2010 (Windows);
@@ -75,8 +78,8 @@ Project developed for a practical test for a vacancy in the USEND company.
   - [x] Responsive;
   - [x] Desktop - Tablet - Mobile's;
   - [x] In-line css or CDN (optional);
-
-<!-- ## 🔨 Architecture and Infrastructure for the Project: -->
+        <br>
+  <!-- ## 🔨 Architecture and Infrastructure for the Project: -->
 
 <!-- - Architecture:
   <div align="left">
