@@ -19,6 +19,7 @@
 <br>
 <br>
 <br>
+
 ## 📷 Demonstration:
 
 <div align="center">
@@ -30,17 +31,7 @@
     src="./assets/cover.gif?style=flat"
     alt="Cover Project" 
   />
-  </h1>
-</div>
 
-## 📷 Demonstration:
-
-<div align="center">
-  <h1 align="center">
-    <img 
-      src="./assets/cover.gif?style=flat"
-      alt="Cover Project" 
-    />
   </h1>
 </div>
 
