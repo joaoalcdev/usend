@@ -15,10 +15,6 @@
   </h1>
 </div>
 
-<br>
-<br>
-<br>
-
 ## 📷 Demonstration:
 
 <div align="center">
