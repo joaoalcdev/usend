@@ -36,16 +36,6 @@
   </h1>
 </div>
 
-## 🔺 NOTE:
-
-Some assets may be at a slightly lower resolution due to not having editable creatives.
-
-<br>
-
-## 💻 Project:
-
-Project developed for a practical test for a vacancy in the USEND company.
-
 <br>
 
 ## ⌛️ Finalization date:
@@ -54,6 +44,12 @@ Project developed for a practical test for a vacancy in the USEND company.
 - [x] Deadline: 12/04/2022
 - [ ] Project Submitted: 12/04/2022 | ⏱ 14pm (BRT GMT -3)
   - Status: Pending...
+
+<br>
+
+## 💻 Project:
+
+Project developed for a practical test for a vacancy in the USEND company.
 
 <br>
 
@@ -86,6 +82,10 @@ Project developed for a practical test for a vacancy in the USEND company.
   <h1 align="left"> -->
   <!-- </h1>
 </div> -->
+
+## 🔺 NOTE:
+
+Some assets may be at a slightly lower resolution due to not having editable creatives.
 
 <br>
 
