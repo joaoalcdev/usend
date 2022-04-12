@@ -29,6 +29,12 @@
   </h1>
 </div>
 
+## 🔺 NOTE:
+
+Some assets may be at a slightly lower resolution due to not having editable creatives.
+
+<br>
+
 ## 💻 Project:
 
 Project developed for a practical test for a vacancy in the USEND company.
